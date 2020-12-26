@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_lyrics"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/exit"
+        android:title="@string/exit_lyrics"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/saved"
+        android:icon="@drawable/saved"
+        android:orderInCategory="2"
+        android:title="Item"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addToList"
+        android:icon="@drawable/add"
+        android:orderInCategory="1"
+        android:title="Item"
+        app:showAsAction="always" />
+
+
+</menu>

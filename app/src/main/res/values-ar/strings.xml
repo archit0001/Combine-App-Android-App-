@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">المشروع النهائي</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--soccer-->
+    <string name="watch_highlight">مشاهدة Highlight</string>
+    <string name="favorite_soccer">مفضل</string>
+    <string name="exit_soccer">خروج</string>
+    <string name="about_soccer">حول</string>
+
+    <string name="d_help_tittle">معلومات ومساعدة</string>\
+    <string name="d_help_text">المؤلف: Archit Anghan \ n الإصدار: 1.0 \ n التعليمات: إنه يعرض المباريات التي تم لعبها </string>
+    <!--    deezer-->
+    <string name="deezer_info_text">المؤلف: Archit Anghan \ n الإصدار: 1.0 \ n التعليمات: عند البحث حسب الفنان ستعطيك جميع أغاني هذا الفنان.</string>
+    <string name="about_deezer">حول</string>
+    <string name="exit_deezer">خروج</string>
+
+    <!--    lyrics-->
+    <string name="lyrics_info_text">المؤلف: Archit Anghan \ n الإصدار: 1.0 \ n التعليمات: عندما تبحث عن الفنان واسم الأغنية ستعطيك صوت الأغنية.</string>
+    <string name="about_lyrics">حول</string>
+    <string name="exit_lyrics">خروج</string>
+    <!--  geo  -->
+    <string name="geo_info_text">المؤلف: Archit Anghan \ n الإصدار: 1.0 \ n تعليمات: عند البحث عن خط العرض وخط الطول للمدينة ، ستعطيك النتيجة بالقرب من المدن.</string>
+    <string name="latitude_geo">خط العرض</string>
+    <string name="longitude_geo">خط الطول</string>
+    <string name="search_geo">بحث</string>
+    <string name="about_geo">حول</string>
+    <string name="exit_geo">خروج</string>
+    <string name="soccer_match_hightlights">ويبرز مباراة كرة القدم</string>
+    <string name="lyrics_song_search">كلمات الأغاني البحث</string>
+    <string name="geo_data">البيانات الجغرافية</string>
+    <string name="deezer_song_search">البحث عن أغنية Deezer</string>
+    <string name="search_deezer">بحث</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">અંતિમ પ્રોજેક્ટ</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="watch_highlight">જુઓ હાઇલાઇટ</string>
+    <string name="favorite_soccer">પ્રિય</string>
+    <string name="exit_soccer">બહાર નીકળો</string>
+    <string name="about_soccer">વિશે</string>
+
+    <string name="d_help_tittle">માહિતી અને સહાય</string>\
+    <string name="d_help_text">લેખક: અર્ચિત અણઘણ  Version n સંસ્કરણ: 1.0 \ n સૂચનાઓ: તે રમવામાં આવતી મેચ બતાવી રહી છે </string>
+
+    <!--    deezer-->
+    <string name="deezer_info_text">લેખક:અર્ચિત અણઘણ  Version n સંસ્કરણ: 1.0 \ n સૂચનાઓ: જ્યારે તમે કલાકાર દ્વારા શોધશો ત્યારે તે તમને તે કલાકારના બધા ગીતોનું પરિણામ આપશે.</string>
+    <string name="about_deezer">વિશે</string>
+    <string name="exit_deezer">બહાર નીકળો</string>
+
+    <!--    lyrics-->
+    <string name="lyrics_info_text">લેખક:અર્ચિત અણઘણ  Version n સંસ્કરણ: 1.0 \ n સૂચનાઓ: જ્યારે તમે કલાકાર અને ગીતના નામ દ્વારા શોધશો ત્યારે તે તમને તે ગીતોનું લિરિસ આપશે.</string>
+    <string name="about_lyrics">વિશે</string>
+    <string name="exit_lyrics">બહાર નીકળો</string>
+    <!--  geo  -->
+    <string name="geo_info_text">લેખક: અર્ચિત અણઘણ  \ n સંસ્કરણ: 1.0 \ n સૂચનાઓ: જ્યારે તમે શહેરના અક્ષાંશ અને રેખાંશ દ્વારા શોધશો ત્યારે તે તમને બધા નજીકનાં શહેરો દ્વારા પરિણામ આપશે.</string>
+    <string name="latitude_geo">અક્ષાંશ</string>
+    <string name="longitude_geo">રેખાંશ</string>
+    <string name="search_geo">શોધો</string>
+    <string name="about_geo">વિશે</string>
+    <string name="exit_geo">બહાર નીકળો</string>
+    <string name="soccer_match_hightlights">સોકર મેચ હાઈલાઈટ્સ</string>
+    <string name="lyrics_song_search">ગીતો ગીત શોધ></string>
+    <string name="geo_data">જીઓ ડેટા</string>
+    <string name="deezer_song_search">ડીઝર સોંગ સર્ચ</string>
+    <string name="search_deezer">શોધો</string>
+</resources>

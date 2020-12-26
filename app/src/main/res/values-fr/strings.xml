@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projet final</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--soccer-->
+    <string name="watch_highlight">regarder Highlight</string>
+    <string name="favorite_soccer">Préférée</string>
+    <string name="exit_soccer">Sortie</string>
+    <string name="about_soccer">À propos</string>
+
+    <string name="d_help_tittle">Info et aide</string>\
+    <string name="d_help_text">Auteur: Archit Anghan \ n Version: 1.0 \ n Instructions: Il montre les matchs joués </string>
+    <!--    deezer-->
+    <string name="deezer_info_text">Auteur: Archit Anghan \ n Version: 1.0 \ n Instructions: Lorsque vous recherchez par lartiste, il vous donnera le résultat de toutes les chansons de cet artiste.</string>
+    <string name="about_deezer">À propos</string>
+    <string name="exit_deezer">Sortie</string>
+
+    <!--    lyrics-->
+    <string name="lyrics_info_text">Auteur: Archit Anghan \ n Version: 1.0 \ n Instructions: lorsque vous recherchez par lartiste et le nom de la chanson, cela vous donnera le lyrice de ces chansons.</string>
+    <string name="about_lyrics">À propos</string>
+    <string name="exit_lyrics">Sortie</string>
+    <!--  geo  -->
+    <string name="geo_info_text">Auteur: Archit Anghan \ n Version: 1.0 \ n Instructions: Lorsque vous recherchez par la latitude et la longitude de la ville, il vous donnera des résultats à proximité des villes.</string>
+    <string name="latitude_geo">Latitude</string>
+    <string name="longitude_geo">Longitude</string>
+    <string name="search_geo">Chercher</string>
+    <string name="about_geo">À propos</string>
+    <string name="exit_geo">Sortie</string>
+    <string name="soccer_match_hightlights">Faits saillants du match de football</string>
+    <string name="lyrics_song_search">Recherche de chansons par paroles</string>
+    <string name="geo_data">Données géographiques</string>
+    <string name="deezer_song_search">Recherche de morceaux Deezer</string>
+    <string name="search_deezer">Chercher</string>
+</resources>

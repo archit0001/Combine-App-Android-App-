@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">अंतिम परियोजना</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--soccer-->
+    <string name="watch_highlight">हाइलाइट देखें</string>
+    <string name="favorite_soccer">पसंदीदा</string>
+    <string name="exit_soccer">बाहर जाएं</string>
+    <string name="about_soccer">के बारे में</string>
+
+    <string name="d_help_tittle">जानकारी और मदद</string>\
+    <string name="d_help_text">लेखक: Archit Anghan n संस्करण: 1.0 \ n निर्देश: यह खेले गए मैच दिखा रहा है</string>
+    <!--    deezer-->
+    <string name="deezer_info_text">लेखक: Archit Anghan \ n संस्करण: 1.0 \ n निर्देश: जब आप कलाकार द्वारा खोज करेंगे तो यह आपको उस कलाकार के सभी गीतों का परिणाम देगा।</string>
+    <string name="about_deezer">के बारे में</string>
+    <string name="exit_deezer">बाहर जाएं</string>
+
+    <!--    lyrics-->
+    <string name="lyrics_info_text">लेखक: Archit Anghan \ n संस्करण: १.० \ n निर्देश: जब आप कलाकार और गीत के नाम से खोजते हैं तो यह आपको उस गीत की लय प्रदान करेगा।</string>
+    <string name="about_lyrics">के बारे में</string>
+    <string name="exit_lyrics">बाहर जाएं</string>
+    <!--  geo  -->
+    <string name="geo_info_text">लेखक: Archit Anghan \ n संस्करण: 1.0 \ n निर्देश: जब आप शहर के अक्षांश और देशांतर से खोजते हैं तो यह आपको सभी शहरों के पास परिणाम देगा।</string>
+    <string name="latitude_geo">अक्षांश</string>
+    <string name="longitude_geo">देशान्तर</string>
+    <string name="search_geo">खोज</string>
+    <string name="about_geo">के बारे में</string>
+    <string name="exit_geo">बाहर जाएं</string>
+    <string name="soccer_match_hightlights">फ़ुटबॉल मैच हाइलाइट्स</string>
+    <string name="lyrics_song_search">गाने के बोल सर्च</string>
+    <string name="geo_data">जियो डाटा</string>
+    <string name="deezer_song_search">डीजर सॉन्ग सर्च</string>
+    <string name="search_deezer">खोज</string>
+
+
+</resources>

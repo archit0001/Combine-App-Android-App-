@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/lyricsText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="apple"
+            android:textAppearance="?android:attr/textAppearanceListItemSmall"
+            android:textSize="21sp" />
+    </ScrollView>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/deleteButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:clickable="true"
+        android:focusable="true"
+        app:srcCompat="@drawable/delete"
+        tools:ignore="VectorDrawableCompat" />
+
+
+    <!--<ImageView-->
+    <!--android:id="@+id/lyricsdelete"-->
+    <!--android:layout_width="36dp"-->
+    <!--android:layout_height="36dp"-->
+    <!--android:layout_marginStart="-2dp"-->
+    <!--android:layout_toEndOf="@+id/word"-->
+    <!--android:src="@drawable/lyricsdelete" />-->
+
+</RelativeLayout>

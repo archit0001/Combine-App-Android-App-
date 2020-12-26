@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Final Project</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--soccer-->
+    <string name="watch_highlight">watch Highlight</string>
+    <string name="favorite_soccer">Favorite</string>
+    <string name="exit_soccer">Exit</string>
+    <string name="about_soccer">About</string>
+
+    <string name="d_help_tittle">Info And Help</string>\
+    <string name="d_help_text">Author: Archit Anghan \n Version: 1.0 \n Instructions: It is showing played matches </string>
+    <!--    deezer-->
+    <string name="deezer_info_text">Author: Archit Anghan \n Version: 1.0 \n Instructions: When you search by the artist it will give you result all the songs of that artist.</string>
+    <string name="about_deezer">About</string>
+    <string name="exit_deezer">Exit</string>
+
+    <!--    lyrics-->
+    <string name="lyrics_info_text">Author: Archit Anghan \n Version: 1.0 \n Instructions: when you search by the artist and the song name it will give you the lyrice of that songs.</string>
+    <string name="about_lyrics">About</string>
+    <string name="exit_lyrics">Exit</string>
+    <!--  geo  -->
+    <string name="geo_info_text">Author: Archit Anghan \n Version: 1.0 \n Instructions: When you search by the latitude and longitude of the city it will give you result all near by cities.</string>
+    <string name="latitude_geo">Latitude</string>
+    <string name="longitude_geo">Longitude</string>
+    <string name="search_geo">Search</string>
+    <string name="about_geo">About</string>
+    <string name="exit_geo">Exit</string>
+    <string name="soccer_match_hightlights">Soccer Match Hightlights</string>
+    <string name="lyrics_song_search">Lyrics Song Search</string>
+    <string name="geo_data">Geo Data</string>
+    <string name="deezer_song_search">Deezer Song Search</string>
+    <string name="search_deezer">Search</string>
+
+
+</resources>

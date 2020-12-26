@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LyricsMainActivity">
+
+    <EditText
+        android:id="@+id/artistWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/search"
+        android:drawableLeft="@drawable/search"
+        android:hint="Artist" />
+
+    <EditText
+        android:id="@+id/titleWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/artistWord"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@id/search"
+        android:drawableLeft="@drawable/search"
+        android:hint="Title" />
+
+    <Button
+        android:id="@+id/search"
+        android:layout_width="wrap_content"
+        android:layout_height="90dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/search_deezer" />
+
+    <ProgressBar
+        android:id="@+id/progressBarLyrics"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search"
+        android:visibility="invisible" />
+
+
+    <ListView
+        android:id="@+id/setLyrics"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/progressBarLyrics"
+        android:background="#FFFFFF" />
+
+    <!--<fragment-->
+    <!--android:id="@+id/fragment"-->
+    <!--android:name="com.example.archi.merriamwebsterdictionary.DefinationText
+    <!-android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:layout_below="@+id/searchWord"-->
+    <!--android:layout_alignParentStart="true" />-->
+
+</RelativeLayout>
